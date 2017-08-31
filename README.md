@@ -1,5 +1,6 @@
 # PySparkUnitTest
-Infrastructure for unit tests for PySpark 
+Infrastructure for unit tests for PySpark.  
+For coverage uses Ned Batchelder's coverage framework.  
 
 ## To run the test with coverage
 **$ python -m coverage run --source test test/pyspark_test.py**  
