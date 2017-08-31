@@ -16,8 +16,8 @@ Infrastructure for unit tests for PySpark
 
 ## To get the coverage report
 **$ python -m coverage report -m**  
-
 Name                   Stmts   Miss  Cover   Missing  
+
 ----------------------------------------------------   
 test/pyspark_test.py      10      0   100%   
 
